@@ -1,5 +1,5 @@
 # 10-Days-of-Statistics
-Solutions for 10 Days of Statistics Tutorials Problems in Python
+Solutions for 10 Days of Statistics Hackerrank Tutorials Problems in Python
 ---
 
 > [Day 0](https://github.com/GSelvakumar/10-Days-of-Statistics/tree/main/Day%200)
