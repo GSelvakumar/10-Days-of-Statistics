@@ -11,3 +11,7 @@ Solutions for 10 Days of Statistics Hackerrank Tutorials Problems in Python
 
 - [Quartiles](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%201/quartiles.py) of an ordered data set are the 3 points that split the data set into 4 equal groups
 - [InterQuartile Range](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%201/interquartile.py) is the difference between the Quartile Q3 and Quartile Q1
+- [Standard Deviation](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%201/interquartile.py) he standard deviation quantifies the amount of variation in a set of data values. the formula for Standard Deviation is 
+```math
+\sigma = \sqrt{\frac{{\sum_{i=1}^{n}(x_i - \mu)^2}}{n}} 
+```
