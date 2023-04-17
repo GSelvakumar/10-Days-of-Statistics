@@ -11,4 +11,6 @@ $$ Total = (\frac{4}{7} * \frac{5}{9} * \frac{4}{8}) + (\frac{4}{7} * \frac{4}{9
 
 $$ Total = \frac{10}{63} + \frac{8}{63} + \frac{5}{42} $$
 
-Ans: $$ \frac{17}{42} $$
+Ans: 
+
+$$\frac{17}{42}$$
