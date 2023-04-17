@@ -10,3 +10,4 @@ Solutions for 10 Days of Statistics Hackerrank Tutorials Problems in Python
 > [Day 1](https://github.com/GSelvakumar/10-Days-of-Statistics/tree/main/Day%201)
 
 - [Quartiles](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%201/quartiles.py) of an ordered data set are the 3 points that split the data set into 4 equal groups
+- [InterQuartile Range](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%201/interquartile.py) is the difference between the Quartile Q3 and Quartile Q1
