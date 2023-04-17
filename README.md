@@ -18,3 +18,4 @@ Solutions for 10 Days of Statistics Hackerrank Tutorials Problems in Python
 > [Day 2](https://github.com/GSelvakumar/10-Days-of-Statistics/tree/main/Day%202)
 
 - [Basic Probability](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%202/Basic%20Probability.md) simple six faced dice roll sum mcq.
+- [More Dice](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%202/More%20Dice.md) six faced dice roll mcq.
