@@ -19,3 +19,9 @@ Solutions for 10 Days of Statistics Hackerrank Tutorials Problems in Python
 
 - [Basic Probability](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%202/Basic%20Probability.md) simple six faced dice roll sum mcq.
 - [More Dice](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%202/More%20Dice.md) six faced dice roll mcq.
+
+> [Day 3](https://github.com/GSelvakumar/10-Days-of-Statistics/tree/main/Day%203)
+
+- [Conditional Probability](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%203/Conditional%20Probability.md)
+- [Cards of the same suit](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%203/Cards%20of%20the%20same%20suit.md)
+- [Drawing Marbles](https://github.com/GSelvakumar/10-Days-of-Statistics/blob/main/Day%203/Drawing%20marbles.md)
